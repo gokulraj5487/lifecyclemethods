@@ -31,7 +31,8 @@ Step 7: Save and run the application.
 Program to print the text “Hello World”.
 Developed by: GOKULRAJ K
 Registeration Number : 212225040096
-
+```
+```
 package com.example.lifecyclemethodss;
 
 import android.os.Bundle;
